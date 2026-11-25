@@ -1,0 +1,29 @@
+{
+  "name": "visionedge-domfond",
+  "displayName": "DomFond",
+  "version": "1.0.6",
+  "description": "Conditions and calculations of loans from the Slovak State Housing Development Fund (ŠFRB) for renovating apartment buildings: interest rates, limits, loan and payment estimate, forgiveness, application window and Slovak terms.",
+  "author": {
+    "name": "VisionEdge, s. r. o.",
+    "email": "info@visionedge.sk",
+    "url": "https://visionedge.sk"
+  },
+  "homepage": "https://domfond.sk",
+  "repository": "https://github.com/Marcel-Bohunsky/domfond-claude-plugin",
+  "license": "Proprietary",
+  "keywords": [
+    "slovakia",
+    "housing",
+    "apartment building",
+    "renovation",
+    "loan",
+    "sfrb",
+    "insulation",
+    "elevator"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://github.com/Marcel-Bohunsky/domfond-claude-plugin#readme",
+  "supportUrl": "https://domfond.sk/pomoc",
+  "privacyPolicyUrl": "https://domfond.sk/ochrana-osobnych-udajov#doplnok-claude",
+  "termsOfServiceUrl": "https://domfond.sk/vop"
+}
